@@ -79,3 +79,9 @@ php artisan make:model <table-name>
 ----------------------------------------------------------------------------------
 - to setup new laravel app (in dit geval "crudposts"):
 laravel new crudposts
+
+
+
+
+todo:
+composer suggest --all (in cmd)
